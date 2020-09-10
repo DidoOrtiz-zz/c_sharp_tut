@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C5D48500-9451-4BED-8F82-77C7EE120F52}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PassCode/Program.cs">
+    <Files>
+      <File FileName="PassCode/Program.cs" Line="20" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PassCode" expanded="True">
+            <Node name="PassCode" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PassCode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

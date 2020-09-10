@@ -1,0 +1,12 @@
+/Users/diana.ortiz/Projects/Survey/Survey/bin/Debug/netcoreapp3.1/Survey.deps.json
+/Users/diana.ortiz/Projects/Survey/Survey/bin/Debug/netcoreapp3.1/Survey.runtimeconfig.json
+/Users/diana.ortiz/Projects/Survey/Survey/bin/Debug/netcoreapp3.1/Survey.runtimeconfig.dev.json
+/Users/diana.ortiz/Projects/Survey/Survey/bin/Debug/netcoreapp3.1/Survey.dll
+/Users/diana.ortiz/Projects/Survey/Survey/bin/Debug/netcoreapp3.1/Survey.pdb
+/Users/diana.ortiz/Projects/Survey/Survey/obj/Debug/netcoreapp3.1/Survey.csprojAssemblyReference.cache
+/Users/diana.ortiz/Projects/Survey/Survey/obj/Debug/netcoreapp3.1/Survey.AssemblyInfoInputs.cache
+/Users/diana.ortiz/Projects/Survey/Survey/obj/Debug/netcoreapp3.1/Survey.AssemblyInfo.cs
+/Users/diana.ortiz/Projects/Survey/Survey/obj/Debug/netcoreapp3.1/Survey.csproj.CoreCompileInputs.cache
+/Users/diana.ortiz/Projects/Survey/Survey/obj/Debug/netcoreapp3.1/Survey.dll
+/Users/diana.ortiz/Projects/Survey/Survey/obj/Debug/netcoreapp3.1/Survey.pdb
+/Users/diana.ortiz/Projects/Survey/Survey/obj/Debug/netcoreapp3.1/Survey.genruntimeconfig.cache

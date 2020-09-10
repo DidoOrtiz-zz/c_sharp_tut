@@ -1,0 +1,12 @@
+/Users/diana.ortiz/Projects/PassCode/PassCode/bin/Debug/netcoreapp3.1/PassCode.deps.json
+/Users/diana.ortiz/Projects/PassCode/PassCode/bin/Debug/netcoreapp3.1/PassCode.runtimeconfig.json
+/Users/diana.ortiz/Projects/PassCode/PassCode/bin/Debug/netcoreapp3.1/PassCode.runtimeconfig.dev.json
+/Users/diana.ortiz/Projects/PassCode/PassCode/bin/Debug/netcoreapp3.1/PassCode.dll
+/Users/diana.ortiz/Projects/PassCode/PassCode/bin/Debug/netcoreapp3.1/PassCode.pdb
+/Users/diana.ortiz/Projects/PassCode/PassCode/obj/Debug/netcoreapp3.1/PassCode.csprojAssemblyReference.cache
+/Users/diana.ortiz/Projects/PassCode/PassCode/obj/Debug/netcoreapp3.1/PassCode.AssemblyInfoInputs.cache
+/Users/diana.ortiz/Projects/PassCode/PassCode/obj/Debug/netcoreapp3.1/PassCode.AssemblyInfo.cs
+/Users/diana.ortiz/Projects/PassCode/PassCode/obj/Debug/netcoreapp3.1/PassCode.csproj.CoreCompileInputs.cache
+/Users/diana.ortiz/Projects/PassCode/PassCode/obj/Debug/netcoreapp3.1/PassCode.dll
+/Users/diana.ortiz/Projects/PassCode/PassCode/obj/Debug/netcoreapp3.1/PassCode.pdb
+/Users/diana.ortiz/Projects/PassCode/PassCode/obj/Debug/netcoreapp3.1/PassCode.genruntimeconfig.cache
